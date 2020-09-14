@@ -1,1 +1,1 @@
-# Todos App buid using Angular
+# Todos App build with Angular
